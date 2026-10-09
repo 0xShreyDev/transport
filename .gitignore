@@ -1,0 +1,7 @@
+.env
+node_modules/
+backend/.env
+backend/node_modules/
+transport/.env
+transport/node_modules/
+transport/dist/
